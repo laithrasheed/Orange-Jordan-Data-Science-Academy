@@ -6,3 +6,4 @@ it is worth to mention that this project was also contributed through other coll
 Finally, the future files for this repository are in-progress to be published, and they are : 
 1- A Jupyter notebook for the EDA of the complete datasets before splitting it into 3 datasets (train, validate, and test)
 2- A Tableau link to the visualziation performed for both, the complete dataset before splitting it (during the EDA stage), and another vidsualization for the train dataset ONLY, in order to assess the performance of the machine learning model and analize the accuracy for Random Forest and other possible Algorithms could be used. 
+## please note that I ahve uploaded an INCORRECT notebook to learn from our mistakes, and the corrected notebook that predicts the target correctly without, bias to a class, data leakgae, nor model cheating while prediction test data!
