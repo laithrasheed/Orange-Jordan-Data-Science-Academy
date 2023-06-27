@@ -1,6 +1,6 @@
 # Orange-Jordan-Data-Science-Academy
 The Graduation Project for the bootcamp of data science offered by Orange-Jordan
-Currently is available the machine part Jupiter notebook, noting that it is implemented by hard working during the bootcamp, and i had to perform more than 15 experiments to obtain the presented f1 score. 
+Currently is available the machine part Jupiter notebook, noting that it is implemented by hard working during the bootcamp, and I had to perform more than 15 experiments to obtain the presented f1 score. 
 it is worth to mention that this project was also contributed through other colleagues in general, but the custom functions are completely defined by Laith Rasheed. 
 
 Finally, the future files for this repository are in-progress to be published, and they are : 
